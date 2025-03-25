@@ -2,6 +2,8 @@
 
 A Python 2 implementation of the Quoridor board game for two players over LAN. The game consists of a server that facilitates communication between the players.
 
+(The reason for Python 2 is that it is a project i made in 2018 but i found it and wanted to share it anyways)
+
 ## Features
 - Two-player Quoridor game over LAN.
 - Server-client architecture.
